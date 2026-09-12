@@ -1,6 +1,8 @@
 # Vídeo baixado
 
-Arquivo de vídeo ainda não disponível neste repositório. Baixe a gravação pelo link oficial: https://www.youtube.com/watch?v=gO9TlFCZGsA&t
+O arquivo `treinamento-2026-09-08.mp4` foi baixado da gravação oficial: https://www.youtube.com/watch?v=gO9TlFCZGsA&t
+
+A transcrição será feita depois da organização dos materiais, conforme a prioridade definida para esta etapa.
 
 Sugestão com `yt-dlp` instalado:
 

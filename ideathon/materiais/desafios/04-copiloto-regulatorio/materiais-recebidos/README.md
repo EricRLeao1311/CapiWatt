@@ -1,3 +1,11 @@
-# Materiais recebidos
+# Materiais recebidos - Copiloto regulatório
 
-Nenhum arquivo de dados específico deste desafio foi incluído no material recebido até agora. Guarde aqui os dados e documentos fornecidos pela organização/ONS, mantendo o nome original e registrando origem, data de recebimento e restrições de uso.
+A organização não anexou arquivos próprios para este desafio, mas o caderno entregou um mapa institucional de fontes que faz parte do material oficial:
+
+- ANEEL: resoluções, despachos, notas técnicas, consultas, pautas, atas e processos;
+- ONS: Procedimentos de Rede e publicações operacionais;
+- MME e EPE: atos, estudos e planos;
+- CCEE: regras de comercialização e comunicados;
+- Diário Oficial da União: leis, decretos, portarias e outros atos.
+
+Veja `fontes-indicadas-no-caderno.md`. O material pesquisado pela equipe fica separado em `../materiais-encontrados/`.

@@ -1,3 +1,10 @@
-# Materiais recebidos
+# Materiais recebidos - Inteligência competitiva
 
-Nenhum arquivo de dados específico deste desafio foi incluído no material recebido até agora. Guarde aqui os dados e documentos fornecidos pela organização/ONS, mantendo o nome original e registrando origem, data de recebimento e restrições de uso.
+O caderno não anexou uma base pronta, mas forneceu as categorias oficiais de documentos a explorar:
+
+- DFP, ITR, releases e apresentações a investidores;
+- Formulários de Referência e documentos da CVM;
+- relatórios anuais, integrados e de sustentabilidade;
+- indicadores financeiros, de investimento, emissões, governança e inovação.
+
+Veja `fontes-indicadas-no-caderno.md`. As fontes encontradas depois pela equipe estão em `../materiais-encontrados/`.
